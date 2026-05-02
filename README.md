@@ -5,10 +5,10 @@
 
 ---
 
-#### I'm an undergraduate student at Harcourt Butler Technical University, Kanpur, India.
+#### I'm a Data Scientist at Optum,India.
 
-- 🏢 I'm currently a final year student.
-- 🌱 Learning more about and studying: **Data Structures and Algorithms, Web Development, Smart Contracts, Open Source**.
+- 🏢 Experienced professional with total 4 YOE.
+- 🌱 Learning more about and studying: **Data Engineering and Machine Learning**.
 - 💬 Ping me about: **open source**, **collabration on projects** 🌈 .
 - 📫 Reach me asap: <a href="https://www.linkedin.com/in/yuktigangwar">LinkedIn</a> or yuktigangwar101@gmail.com ✉️
 - 💜 Interests: Books 📚,  Art 🎨, Travelling.
